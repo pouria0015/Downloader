@@ -15,6 +15,9 @@ if [[ Option -eq 1 ]]; then
   downloadSingle
 elif [[ Option -eq 2 ]]; then
   downloadList
+elif [[ $num -eq 3 ]]; then
+loop=1
+exit
 fi
 
 done
