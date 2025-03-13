@@ -18,4 +18,4 @@ A small and simple downloader that allows you to download your files into Linux 
 I would be happy if you could share your ideas to improve the project with me (using the contact information in my GitHub profile).
 
 
-![A view of the tool](/Downloads/Screenshot at 2025-03-13 04-26-20.png "image tool")
+![A view of the tool](Downloads/Screenshot at 2025-03-13 04-26-20.png "image tool")
